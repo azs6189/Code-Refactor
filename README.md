@@ -1,6 +1,6 @@
 # Code-Refactor
 
-Being able to consolidate CSS selectors allows the code to look neater, makes items easier to navigate, and 
+Being able to consolidate CSS selectors allows the code to look neater and makes items easier to navigate.
 
 
 Consolidated any paragraph within class=benefits styles (margin-bottom and font color).
